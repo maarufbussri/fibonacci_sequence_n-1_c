@@ -2,7 +2,7 @@
 Generate Fibonacci Numbers for n>1 or n>=2.
 
 Fibonacci recurrence relation defined as;
-F(n) = F(n-1) + F(n-2), for n> 1 or n>=2
+F(n) = F(n-2) + F(n-1), for n> 1 or n>=2
 
 The sequence start with;
 F(0) = 0 and F(1) = 1
