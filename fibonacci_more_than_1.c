@@ -15,7 +15,7 @@ int main()
 	Fn_2 = F0; //F(n-2) = F(0), initial condition n=2
 	Fn_1 = F1; //F(n-1) = F(1), initial condition n=2
 
-	printf("%d %d ", F0, F1); //Display initial value  n<=1
+	printf("%d %d ", F0, F1); //Display initial value n<=1
 
 	for (n; n <= m; n++)
 	{
