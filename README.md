@@ -1,4 +1,4 @@
-# fibonacci_sequence_n_more_than_1_using_c
+# fibonacci_sequence_n_more_than_1
 Generate Fibonacci Numbers for n>1 or n>=2.
 
 Fibonacci recurrence relation defined as;
